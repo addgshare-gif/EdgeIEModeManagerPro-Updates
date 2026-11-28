@@ -1,10 +1,9 @@
-
 {
   "Product": "Edge IE Mode Manager Pro",
   "Version": "1.0.2",
   "ReleaseDate": "2026-11-28",
   "DownloadUrl": "https://github.com/addgshare-gif/EdgeIEModeManagerPro-Updates/releases/latest",
-  "PackageUrl": "https://github.com/addgshare-gif/EdgeIEModeManagerPro-Updates/releases/download/v1.0.1/EdgeIEModeManagerPro_7_5_RC4_CMD_AutoUpdate_Fix3.zip",
+  "PackageUrl": "https://github.com/addgshare-gif/EdgeIEModeManagerPro-Updates/releases/download/v1.0.2/EdgeIEModeManagerPro_7_5_RC4_CMD_AutoUpdate_Fix3.zip",
   "SHA256": "3E3B82E217F3D986AB32543324479D981D45693499837867BDB145BB412CA329",
   "ReleaseNotes": "Automatic update launcher improvements. SHA256 verification. Automatic application restart."
 }
